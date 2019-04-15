@@ -1,0 +1,3 @@
+email = input("Enter email : ))
+s = email.split('@')
+print("username : ",s[0],"\ndoamin name : ",s[1])
