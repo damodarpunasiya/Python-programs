@@ -1,0 +1,4 @@
+n = int(input("Enter a number : ")
+s = str(n)
+r = s[::-1]
+print("Reverse: ",r)      
